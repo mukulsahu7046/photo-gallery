@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/z/seamless-pattern-yellow-background-black-endless-bat-halloween-festive-seamless-pattern-yellow-background-black-101157833.jpg");
+    background-size: cover;
+}
+
+div {
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpKjfs1umyXsaGPkfhQqJz2kXvXshQJFvlOyc67WfcSuNSiCwTMKUjWM06-YitG5MQ0Y&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #444444;
+    width: 1000px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+p {
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+    margin: 0px;
+}
+
+img {
+    opacity: 0.5;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+img:hover {
+    opacity: 1;
+}
